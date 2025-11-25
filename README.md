@@ -58,11 +58,11 @@ Includes:
 ---
 
 ## 🛠️ **Tools & Technologies**
-- SIEM Platforms (Splunk, Azure Sentinel concepts)  
+- SIEM Platforms (Wazuh)  
 - OSINT tools: SpiderFoot, Shhgit, PasteHunter  
 - Wazuh (conceptual integration)  
 - Google Custom Search API  
-- JIRA / Confluence / internal documentation systems  
+- JIRA / internal documentation systems  
 
 ---
 
