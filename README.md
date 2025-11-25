@@ -1,4 +1,4 @@
-#  Hi, I'm **Ewelina Kowalska-O’Neill**
+#  Hi, I'm **Evelina**
 
 ### **Governance, Risk & Compliance (GRC) Professional**  
 #### PCI DSS 4.0 • ISO 27001 • NIST • Risk Management • Incident Response
