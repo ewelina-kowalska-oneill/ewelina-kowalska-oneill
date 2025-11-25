@@ -7,8 +7,7 @@ I specialise in building and maturing **Governance, Risk and Compliance programs
 My work spans **security governance**, **risk frameworks**, **PCI DSS 4.0 compliance**, **operational security**,  
 and the design of **incident response**, **log monitoring**, and **vulnerability management** processes.
 
-I am currently transitioning into a new role with **WiseTech Global**, bringing nine years of experience across  
-GRC, QA leadership, operational risk, security architecture validation, and compliance delivery.
+
 
 ---
 
