@@ -1,110 +1,105 @@
-# Hi, I'm **Evelina**
+# Hi, I'm Evelina
 
-### **Governance, Risk & Compliance (GRC) Professional**  
-#### PCI DSS 4.0 • ISO 27001 • NIST • Risk Management • Incident Response
+## AI Governance | AI Security Governance | Emerging Technology Risk
 
-I specialise in building and maturing **Governance, Risk and Compliance programs** inside engineering-driven organisations.
+I specialise in enterprise AI governance, AI security governance and technology risk within complex engineering-led organisations.
 
-My work focuses on:
-- **security governance and risk frameworks**
-- **PCI DSS 4.0 and ISO 27001 implementation**
-- **incident response and operational security**
-- **bridging the gap between compliance and real security**
+My work focuses on helping organisations adopt AI responsibly by assessing real-world AI implementations, identifying governance and security risks, and translating technical findings into practical governance that enables innovation rather than slowing it down.
 
-I am currently expanding into **AI governance and compliance**, designing frameworks aligned with the **NIST AI Risk Management Framework (AI RMF)** and the **EU AI Act**.
+I enjoy working where technology, security and governance intersect—partnering with engineering teams to understand how AI systems are actually built and operated, rather than relying solely on documentation or policy.
 
 ---
 
-## 🔍 **Featured Project: AI Compliance & False Assurance**
+## Current Focus
 
-**[AI Compliance False Assurance](https://github.com/ewelina-kowalska-oneill/ai-compliance-false-assurance)**  
-
-A GRC project analysing how **AI-driven compliance automation can create false assurance** in third-party risk management.
-
-Focus areas:
-- control effectiveness vs certification  
-- risks of AI-generated compliance evidence  
-- auditor reliability and assurance quality  
-- practical control validation frameworks  
-
-> This reflects a growing industry challenge: the gap between **certified compliance** and **actual security posture**
-
----
-
-## 📂 **My GRC Portfolio**
-A collection of anonymised GRC artefacts, frameworks, templates and security program components:
-
-👉 **[Visit GRC Portfolio Repository](https://github.com/ewelina-kowalska-oneill/GRC-Portfolio)**
-
-Includes:
-- PCI DSS 4.0 Targeted Risk Analyses (20+ documented examples)  
-- ISO 27001-aligned risk management  
-- Incident Response plans, playbooks, SITREPs, evidence logs  
-- Logging & monitoring governance  
-- Vulnerability management workflows  
-- Privileged access governance  
-- Third-party due diligence & monitoring  
-- Threat intelligence & OSINT leak monitoring  
-- Tabletop exercise library  
+- Enterprise AI Governance
+- AI Security Governance
+- AI Risk Management
+- AI Assurance
+- AI Governance Maturity Assessments
+- AI Inventory & Ownership
+- Technical AI Governance
+- LLM & Agentic AI Governance
+- AI Security Risk Assessments
+- Emerging Technology Risk
+- EU AI Act Readiness
+- ISO/IEC 42001
+- ISO 27001 Governance
+- NIST AI RMF
 
 ---
 
-## 🧠 **Core Focus Areas**
+## Professional Interests
 
-### Governance & Compliance
-- PCI DSS 4.0 (TRA design, control justification, audit evidence)
-- ISO 27001:2022 governance and Annex A implementation
-- NIST frameworks (800-61, 800-30, 800-53)
-- Security policy and standards development
+I am particularly interested in the governance of modern enterprise AI systems, including:
 
-### Risk Management
-- Enterprise risk frameworks (ISO 27005 / CRISC-aligned)
-- Risk registers, scoring models, and KRI reporting
-- Third-party and operational risk governance
-- Control effectiveness validation
-
-### Security Operations & Technical GRC
-- Incident response lifecycle and readiness
-- Detection engineering & log validation
-- Vulnerability management and asset classification
-- SIEM mapping and evidence validation
-- OSINT-based credential and data leak monitoring
+- Large Language Models (LLMs)
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- Enterprise AI Platforms
+- AI Lifecycle Governance
+- Third-Party AI Risk
+- AI Transparency & Human Oversight
+- AI Security
+- AI Assurance
 
 ---
 
-## 🤖 **AI Governance & Compliance (Current Focus)**
+## Certifications
 
-- Designing governance frameworks aligned with **NIST AI Risk Management Framework (AI RMF)**  
-- Mapping organisational controls to **EU AI Act requirements**  
-- Identifying risks in **AI-driven automation and decision-making systems**  
-- Developing approaches to **assurance, validation, and accountability in AI systems**  
-- Analysing risks of **AI-generated compliance artefacts and false assurance**
+### Completed
 
----
+- CRISC – Certified in Risk and Information Systems Control (ISACA)
+- Google Cloud Cybersecurity Professional Certificate
+- Google Cybersecurity Professional Certificate
+- Google Project Management Professional Certificate
+- Generative AI for Cybersecurity Professionals
+- Generative AI Prompt Engineering
+- TryHackMe Junior Penetration Tester
 
-## 🛠️ **Tools & Technologies**
-- SIEM platforms (Wazuh)
-- OSINT tools: SpiderFoot, Shhgit, PasteHunter  
-- Google Custom Search API  
-- JIRA / internal documentation systems  
+### Currently Pursuing
 
----
-
-## 🚀 **Currently**
-- GRC / Security role at **WiseTech Global**  
-- Preparing for **CRISC** certification  
-- Expanding a public GRC portfolio focused on real-world risk scenarios  
-- Building **AI governance and compliance frameworks aligned with NIST AI RMF and the EU AI Act**
+- ISACA Advanced in AI Risk (AAIR)
+- ISO/IEC 42001 Lead Implementer
 
 ---
 
-## 📫 **Contact**
-**ewelinakow@gmail.com**
+## What You'll Find Here
+
+This GitHub is gradually evolving into my professional AI Governance portfolio.
+
+Current and planned content includes:
+
+- AI Governance Frameworks
+- AI Risk Assessment Examples
+- EU AI Act Resources
+- ISO/IEC 42001 Materials
+- NIST AI RMF Examples
+- Governance Maturity Assessment Templates
+- AI Assurance Approaches
+- Governance Checklists
+- Practical AI Governance Guidance
+
+All examples are anonymised and intended for educational and portfolio purposes only.
 
 ---
 
-## 🏷️ **Focus Areas**
-GRC • Risk Management • ISO 27001 • PCI DSS • Third-Party Risk • AI Risk • Compliance Assurance
+## My Approach
+
+I believe effective AI governance should be grounded in how AI systems actually operate in production.
+
+Good governance is not about creating more documentation—it is about understanding technology, identifying meaningful risks and implementing practical controls that allow organisations to innovate safely.
+
+---
+
+## Connect with Me
+
+💼 LinkedIn:
+https://www.linkedin.com/in/evelina-kowalska-oneill/
+
+📂 Portfolio:
+https://github.com/ewelina-kowalska-oneill
+
 
 ---
 
